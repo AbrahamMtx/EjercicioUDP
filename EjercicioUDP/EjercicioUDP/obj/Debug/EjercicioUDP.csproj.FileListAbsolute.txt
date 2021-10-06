@@ -1,0 +1,10 @@
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\bin\Debug\EjercicioUDP.exe.config
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\bin\Debug\EjercicioUDP.exe
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\bin\Debug\EjercicioUDP.pdb
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\obj\Debug\EjercicioUDP.csprojAssemblyReference.cache
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\obj\Debug\EjercicioUDP.Form1.resources
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\obj\Debug\EjercicioUDP.Properties.Resources.resources
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\obj\Debug\EjercicioUDP.csproj.GenerateResource.cache
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\obj\Debug\EjercicioUDP.csproj.CoreCompileInputs.cache
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\obj\Debug\EjercicioUDP.exe
+C:\Users\abrah\OneDrive\Escritorio\Semestre 7\Progra\EjercicioUDP\EjercicioUDP\obj\Debug\EjercicioUDP.pdb
